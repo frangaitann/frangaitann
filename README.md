@@ -46,7 +46,7 @@ With FG. Teams i aim to help new people introduce themselfs to coding, media and
 <br>
 
 <h3 style= font-size:1.75em><em>Personal</em></h3>
-I love coding but i love designing too, mixing coding with graphic design is what i love... and obviously it's better than working as a cashier on Mc'Donalds 🙄
+I love coding but i love designing too, mixing coding with graphic design is what i love... and obviously it's better than working as a cashier at Mc'Donalds 🙄
 
 #### [My personal Behance](https://www.behance.net/fgaitan/projects) | [Personal Github](https://github.com/frangaitann) | [E-Mail](mailto:fran.nesgaitan15@gmail.com )
 
