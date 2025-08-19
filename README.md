@@ -30,7 +30,7 @@
 <div align="center">
   <h3 style= font-size:1.75em>Other Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bots,ps&perline=3" alt="other skills"/>
+    <img src="https://skillicons.dev/icons?i=discord,bots,ps,ai&perline=3" alt="other skills"/>
   </a>
 </div>
 
