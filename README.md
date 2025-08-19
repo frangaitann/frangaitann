@@ -6,6 +6,8 @@
 <br>
 
 # ***Currently working on***
+<br>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Facebook-Autoposter&show_icons=true&theme=radical" alt="repo card"/>
@@ -15,7 +17,7 @@
 <br>
 
 # ***Skills***
-
+<br>
 
 <div align="center">
   <h3 style= font-size:1.75em>Coding Skills</h3>
@@ -40,14 +42,13 @@
 <h3 style= font-size:1.75em><em>FG. Teams</em></h3>
 With FG. Teams i aim to help new people introduce themselfs to coding, media and design doing what they like for living and giving their first steps on working life while giving the best product to customers
 
-#### [FG .Teams Discord](discord.gg/Q2KuwbXaJc) | [FG .Teams Facebook](https://www.facebook.com/profile.php?id=61578095351195)
+#### [FG .Teams Discord](discord.gg/Q2KuwbXaJc) | [FG .Teams Facebook](https://www.facebook.com/profile.php?id=61578095351195) | [FG .Teams Instagram](https://www.instagram.com/fg.teamss/)
 <br>
 
 <h3 style= font-size:1.75em><em>Personal</em></h3>
 I love coding but i love designing too, mixing coding with graphic design is what i love... and obviously it's better than working as a cashier on Mc'Donalds 🙄
 
-#### [My personal Behance](https://www.behance.net/fgaitan/projects) | [Personal Github](https://github.com/frangaitann)
-i don't know why this ☝️☝️☝️ would be needed... like... you are right here you know?, but i need to fill this with something... 😅
+#### [My personal Behance](https://www.behance.net/fgaitan/projects) | [Personal Github](https://github.com/frangaitann) | [E-Mail](mailto:fran.nesgaitan15@gmail.com )
 
 #
 <br> <br>
