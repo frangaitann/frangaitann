@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/frangaitann/Facebook-Autoposter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Facebook-Autoposter&show_icons=true&theme=radical" alt="repo card"/>
   </a>
 </div>
@@ -54,7 +54,7 @@ I love coding but i love designing too, mixing coding with graphic design is wha
 <br> <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/frangaitann">
     <img src="https://github-readme-stats.vercel.app/api?username=frangaitann&show_icons=true&theme=radical" alt="github profile stats"/>
   </a>
 </div>
