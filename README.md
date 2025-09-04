@@ -12,8 +12,8 @@
   <a href="https://github.com/frangaitann/Facebook-Autoposter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Facebook-Autoposter&show_icons=true&theme=radical" alt="repo card"/>
   </a>
-  <a href="https://github.com/frangaitann/">
-    <img src="https://i.imgur.com/jNUkg4l.jpeg" width="400px" alt="repo card"/>
+  <a href="https://github.com/frangaitann/Financ-IA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Finance-IA&show_icons=true&theme=radical" alt="2nd repo card"/>
   </a>
 </div>
 
