@@ -45,7 +45,7 @@
 <h3 style= font-size:1.75em><em>FG. Teams</em></h3>
 With FG. Teams i aim to help new people introduce themselves to coding, media or design doing what they like for living and giving their first steps on working life while giving the best product to customers
 
-#### [FG .Teams Discord](discord.gg/Q2KuwbXaJc) | [FG .Teams Facebook](https://www.facebook.com/profile.php?id=61578095351195) | [FG .Teams Instagram](https://www.instagram.com/fg.teamss/)
+#### [FG .Teams Discord](discord.gg/Q2KuwbXaJc)
 <br>
 
 <h3 style= font-size:1.75em><em>Personal</em></h3>
