@@ -1,22 +1,24 @@
 <!-- ¡Execute order 66! -->
 
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/IiH8zEHS8bZChx2fKAvqA0JXxX_5gpXU8V8g33u0rpA/https/i.imgur.com/PNl9OKH.jpeg" alt="frangaitann logo" width=200/>
-  <img src="https://avatars.githubusercontent.com/u/106671450?v=4" alt="FG Development team logo" width=200
+  <img src="https://images-ext-1.discordapp.net/external/IiH8zEHS8bZChx2fKAvqA0JXxX_5gpXU8V8g33u0rpA/https/i.imgur.com/PNl9OKH.jpeg" alt="frangaitann logo" width=150/
 </div>
 
 <br>
 
-# ***Currently working on***
+# ***Currently working with/on:***
 <br>
 
 <div align="center">
-  <a href="https://github.com/frangaitann/Facebook-Autoposter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Facebook-Autoposter&show_icons=true&theme=radical" alt="repo card"/>
+  <a href="https://github.com/frangaitann/Financ-IA-chain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Financ-IA-chain&show_icons=true&theme=radical" alt="repo card"/>
   </a>
-  <a href="https://github.com/frangaitann/Financ-IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Financ-IA&show_icons=true&theme=radical" alt="2nd repo card"/>
-  </a>
+  <br><br><br>
+  <ul align="left">
+    <li>LangChain, LangGraph, HuggingFace, OpenRouter and AI development.</li>
+    <li>Web Automation using PlayWright and Selenium</li>
+    <li>Learning Cloud, services, AI & automation oriented technologies</li>
+  </ul>
 </div>
 
 <br>
@@ -27,7 +29,7 @@
 <div align="center">
   <h3 style= font-size:1.75em>Coding Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,selenium,github&perline=3" alt="coding skills"/>
+    <img src="https://skillicons.dev/icons?i=py,selenium,mongodb,mysql,github,git,html&perline=3" alt="coding skills"/>
   </a>
 </div>
 
@@ -35,25 +37,18 @@
 <div align="center">
   <h3 style= font-size:1.75em>Other Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bots,ps,ai&perline=3" alt="other skills"/>
+    <img src="https://skillicons.dev/icons?i=ps,ai,discord,bots&perline=3" alt="other skills"/>
   </a>
 </div>
 
 <br><br>
 
 # ***Contact & others***
-<br>
-
-<h3 style= font-size:1.75em><em>FG. Teams</em></h3>
-With FG. Teams i aim to help new people introduce themselves to coding, media or design doing what they like for living and giving their first steps on working life while giving the best product to customers
-
-#### [FG .Teams Discord](discord.gg/Q2KuwbXaJc)
-<br>
 
 <h3 style= font-size:1.75em><em>Personal</em></h3>
-I love coding but designing too, mixing code with graphic design is what i love... and obviously it's better than working as a cashier at Mc'Donalds 🙄
+Besides coding, i love Graphic Design too and despite of using it for some personal projects i just made a few works for other people. You can see both, coding & design, right here.
 
-#### [My personal Behance](https://www.behance.net/fgaitan/projects) | [Personal Github](https://github.com/frangaitann) | [E-Mail](mailto:fran.nesgaitan15@gmail.com )
+#### [Behance](https://www.behance.net/fgaitan/projects) | [Github](https://github.com/frangaitann) | [E-Mail](mailto:fran.nesgaitan15@gmail.com ) | [Discord](discord.gg/Q2KuwbXaJc)
 
 #
 <br> <br>
