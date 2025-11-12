@@ -10,13 +10,16 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/frangaitann/Financ-IA-chain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=Financ-IA-chain&show_icons=true&theme=radical" alt="repo card"/>
+  <a href="https://github.com/frangaitann/FinancIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=FinancIA&show_icons=true&theme=radical" alt="repo card"/>
+  </a>
+   <a href="https://github.com/frangaitann/AI-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=AI-Learning&show_icons=true&theme=radical" alt="2nd repo card"/>
   </a>
   <br><br><br>
   <ul align="left">
-    <li>LangChain, LangGraph, HuggingFace, OpenRouter and AI development.</li>
-    <li>Web Automation using PlayWright and Selenium</li>
+    <li>LangChain, LangGraph, HuggingFace & AI development.</li>
+    <li>Web Automation using PlayWright & Automation tools</li>
     <li>Learning Cloud, services, AI & automation oriented technologies</li>
   </ul>
 </div>
@@ -48,13 +51,5 @@
 <h3 style= font-size:1.75em><em>Personal</em></h3>
 Besides coding, i love Graphic Design too and despite of using it for some personal projects i just made a few works for other people. You can see both, coding & design, right here.
 
-#### [Behance](https://www.behance.net/fgaitan/projects) | [Github](https://github.com/frangaitann) | [E-Mail](mailto:fran.nesgaitan15@gmail.com ) | [Discord](discord.gg/Q2KuwbXaJc)
+#### [Behance](https://www.behance.net/fgaitan/projects) | [LinkedIn](https://www.linkedin.com/in/francogaitan) | [E-Mail](mailto:fran.nesgaitan15@gmail.com ) | [Discord](discord.gg/Q2KuwbXaJc)
 
-#
-<br> <br>
-
-<div align="center">
-  <a href="https://github.com/frangaitann">
-    <img src="https://github-readme-stats.vercel.app/api?username=frangaitann&show_icons=true&theme=radical" alt="github profile stats"/>
-  </a>
-</div>
