@@ -8,15 +8,6 @@
 
 # ***Currently working with/on:***
 <br>
-
-<div align="center">
-  <a href="https://github.com/frangaitann/FinancIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=FinancIA&show_icons=true&theme=radical" alt="repo card"/>
-  </a>
-   <a href="https://github.com/frangaitann/AI-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frangaitann&repo=AI-Learning&show_icons=true&theme=radical" alt="2nd repo card"/>
-  </a>
-  <br><br><br>
   <ul align="left">
     <li>LangChain, LangGraph, HuggingFace & AI development.</li>
     <li>Web Automation using PlayWright & Automation tools</li>
