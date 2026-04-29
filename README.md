@@ -9,9 +9,9 @@
 # ***Currently working with/on:***
 <br>
   <ul align="left">
-    <li>LangChain, LangGraph, HuggingFace & AI development.</li>
-    <li>Web Automation using PlayWright & Automation tools</li>
-    <li>Learning Cloud, services, AI & automation oriented technologies</li>
+    <li>LangChain, LangGraph, TensorFlow, PyTorch Libraries</li>
+    <li>Low Neural Network Theorical Understanding (Weights, Bias, FP, Activation Functions, Etc)</li>
+    <li>Neural Network Training, Tuning, Transfer Learning, Etc.</li>
   </ul>
 </div>
 
