@@ -40,7 +40,7 @@
 # ***Contact & others***
 
 <h3 style= font-size:1.75em><em>Personal</em></h3>
-Besides coding, i love Graphic Design too and despite of using it for some personal projects i just made a few works for other people. You can see both, coding & design, right here.
+You can see the projects that i do more in a short way on my LinkedIn, i'm open to any question too on my E-Mail and Discord, it's a pleasure to help. <3
 
-#### [Behance](https://www.behance.net/fgaitan/projects) | [LinkedIn](https://www.linkedin.com/in/francogaitan) | [E-Mail](mailto:fran.nesgaitan15@gmail.com ) | [Discord](discord.gg/Q2KuwbXaJc)
+#### [LinkedIn](https://www.linkedin.com/in/francogaitan) | [E-Mail](mailto:fran.nesgaitan15@gmail.com ) | [Discord](discord.gg/Q2KuwbXaJc)
 
